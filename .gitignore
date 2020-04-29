@@ -1,4 +1,7 @@
 
 config/keys_dev.js
+config/.DS_Store
+
 node_modules
 credentials.json
+.DS_Store
